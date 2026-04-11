@@ -1,25 +1,15 @@
-# Architecture Checklists
+# Architecture Checklist
 
-## Boundary Review
+## Pre-ship
+- [ ] Module boundaries are explicit
+- [ ] Dependency direction is clear
+- [ ] Circular dependencies are addressed
+- [ ] Ownership lines are documented
+- [ ] Migration path is incremental
 
-- Identify domain logic vs transport vs infrastructure.
-- Identify circular dependencies.
-- Identify high-churn modules.
-- Identify shared modules with unclear ownership.
-- Identify places where private internals are imported through side doors.
-
-## Split Decision
-
-- Does the code have a different owner?
-- Does it need a different release cadence?
-- Does it need a different scaling profile?
-- Does it need failure isolation?
-- Would splitting it improve or worsen operational overhead?
-
-## Migration Planning
-
-- isolate interface first
-- move reads before writes when practical
-- move tests with ownership
-- keep old and new paths measurable
-- remove dead paths quickly after cutover
+## Edge Cases
+- [ ] Shared module absorbs volatile business logic
+- [ ] Service split adds more ops cost than value
+- [ ] Legacy path remains partially active
+- [ ] Tests still depend on old boundaries
+- [ ] Ownership is unclear after refactor

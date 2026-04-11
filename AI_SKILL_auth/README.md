@@ -16,12 +16,25 @@ Handle authentication and authorization flows safely and correctly.
 - doing frontend-only styling work
 - reviewing non-auth business logic
 
+## Inputs Needed
+- auth method
+- provider or email flow
+- callback route
+- redirect path
+- session behavior requirements
+
 ## Steps
 1. Identify auth type and trust model.
 2. Choose the safest practical session or token model.
 3. Configure the provider or auth backend.
 4. Handle callback, session creation, and redirect rules.
 5. Validate authorization, expiry, recovery, and logout behavior.
+
+## Output
+- auth implementation plan
+- route or callback guidance
+- session handling guidance
+- edge-case checklist
 
 ## Constraints
 - never expose service role keys
@@ -32,3 +45,4 @@ Handle authentication and authorization flows safely and correctly.
 ## Related Skills
 - AI_SKILL_web
 - AI_SKILL_system_design
+- AI_SKILL_github_commits

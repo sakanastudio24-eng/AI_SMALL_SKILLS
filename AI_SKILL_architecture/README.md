@@ -15,12 +15,25 @@ Shape codebase boundaries and ownership so systems stay maintainable as they gro
 - solving page-level UI issues
 - making infra-only deployment tweaks
 
+## Inputs Needed
+- current module or service layout
+- ownership boundaries
+- pain points or coupling issues
+- deployment or scaling constraints
+- refactor scope
+
 ## Steps
 1. Map current modules, owners, and dependency direction.
 2. Identify boundary failures and high-churn areas.
 3. Decide what should stay together vs split apart.
 4. Define a target shape with explicit ownership.
 5. Plan an incremental migration path.
+
+## Output
+- boundary review
+- target architecture guidance
+- migration plan
+- refactor risk checklist
 
 ## Constraints
 - prefer modular monoliths over service sprawl by default
@@ -31,3 +44,4 @@ Shape codebase boundaries and ownership so systems stay maintainable as they gro
 ## Related Skills
 - AI_SKILL_system_design
 - AI_SKILL_github_commits
+- AI_SKILL_web

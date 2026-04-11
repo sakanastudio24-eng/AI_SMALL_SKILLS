@@ -15,12 +15,25 @@ Organize repository changes into clean commits with messages and history that ar
 - implementing UI behavior
 - designing backend systems
 
+## Inputs Needed
+- current diff or changed files
+- intended change groups
+- files that should stay out
+- preferred commit style
+- PR review concerns
+
 ## Steps
 1. Inspect the diff and classify the kinds of changes.
 2. Group files by intent.
 3. Keep unrelated work and noisy artifacts out of the commit.
 4. Write clear commit messages for each group.
 5. Check whether the branch tells a clean PR story.
+
+## Output
+- commit grouping plan
+- commit message guidance
+- staging guidance
+- PR history checklist
 
 ## Constraints
 - keep one intent per commit
@@ -31,3 +44,4 @@ Organize repository changes into clean commits with messages and history that ar
 ## Related Skills
 - AI_SKILL_architecture
 - AI_SKILL_auth
+- AI_SKILL_system_design
