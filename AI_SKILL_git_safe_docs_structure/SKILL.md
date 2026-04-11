@@ -1,9 +1,9 @@
 ---
-name: git-safe-docs-structure
+name: AI_SKILL_git_safe_docs_structure
 description: Plan and execute safe Git workflows for open-source documentation and repository file-structure changes. Use when tasks involve creating or updating docs, reorganizing folders, defining branch and PR strategy, preventing secret leaks, or scaling documentation architecture from small projects to complex monorepos.
 ---
 
-# Git Safe Docs Structure
+# AI_SKILL_git_safe_docs_structure
 
 Use this skill to implement documentation and file-structure changes with low risk, clear history, and predictable review.
 
