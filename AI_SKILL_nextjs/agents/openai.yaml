@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL Next.js"
+  short_description: "Plan and review Next.js app router structure, server/client boundaries, and route logic"
+  default_prompt: "Help me plan or review a Next.js feature across app router structure, server and client boundaries, route handlers, auth callbacks, and rendering behavior."
