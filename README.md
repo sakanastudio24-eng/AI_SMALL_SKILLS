@@ -3,6 +3,11 @@
 Small, focused Codex skills and workflow packs.
 
 Included here:
+- `AI_SKILL_architecture`
+- `AI_SKILL_auth`
+- `AI_SKILL_github_commits`
+- `AI_SKILL_system_design`
+- `AI_SKILL_web`
 - `codex-security-cert-watch`
 - `endpoint-health-auditor`
 - `git-safe-docs-structure`
