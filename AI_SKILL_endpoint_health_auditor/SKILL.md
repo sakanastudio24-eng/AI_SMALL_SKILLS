@@ -1,9 +1,9 @@
 ---
-name: endpoint-health-auditor
+name: AI_SKILL_endpoint_health_auditor
 description: Audit endpoint and subdomain health, TLS validity, and health-check coverage for APIs/services. Use when users ask to test if servers are responding, identify missing health endpoints, diagnose unhealthy dependencies, or generate remediation steps for non-responding services.
 ---
 
-# Endpoint Health Auditor
+# AI_SKILL_endpoint_health_auditor
 
 ## Overview
 

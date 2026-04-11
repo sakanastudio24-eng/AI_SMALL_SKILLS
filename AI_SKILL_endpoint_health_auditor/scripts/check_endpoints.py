@@ -32,7 +32,7 @@ DEFAULT_HEALTH_PATHS = [
 ]
 
 NON_HEALTHY_KEYWORDS = ["down", "unhealthy", "fail", "error"]
-UA = "endpoint-health-auditor/1.0"
+UA = "AI_SKILL_endpoint_health_auditor/1.0"
 
 
 @dataclass
