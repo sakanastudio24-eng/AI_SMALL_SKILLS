@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL GitHub Commits"
+  short_description: "Organize clean commits and reviewable Git history"
+  default_prompt: "Help me group my changes into clean commits, write strong commit messages, and prepare a reviewable GitHub-ready history."
