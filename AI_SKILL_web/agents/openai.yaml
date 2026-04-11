@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL Web"
+  short_description: "Build and refine websites and web app UX"
+  default_prompt: "Help me design, review, or implement a web page or web app flow with clear hierarchy, responsive behavior, and practical UI decisions."
