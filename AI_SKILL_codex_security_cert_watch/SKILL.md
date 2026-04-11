@@ -1,9 +1,9 @@
 ---
-name: codex-security-cert-watch
+name: AI_SKILL_codex_security_cert_watch
 description: Maintain up-to-date cybersecurity certification guidance and security-risk guardrails for AI/app-bot workflows. Use when users ask about security certificates, certification roadmaps, renewal requirements, exam updates, policy boundaries, or key security concerns and "do-not-cross" lines for AI-enabled systems.
 ---
 
-# Codex Security Cert Watch
+# AI_SKILL_codex_security_cert_watch
 
 ## Overview
 
