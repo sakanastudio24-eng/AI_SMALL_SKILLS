@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL Architecture"
+  short_description: "Review and improve codebase architecture"
+  default_prompt: "Help me review or redesign a codebase architecture with clearer module boundaries, ownership, and an incremental migration plan."
