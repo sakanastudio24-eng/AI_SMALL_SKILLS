@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL Extension Workflows"
+  short_description: "Plan and review browser extension implementation and runtime behavior"
+  default_prompt: "Help me plan or review a browser extension feature across popup, content script, background logic, permissions, runtime behavior, and shipping checks."
