@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL System Design"
+  short_description: "Plan scalable systems and technical designs"
+  default_prompt: "Help me design a system with clear services, data flow, reliability tradeoffs, and a practical v1 architecture."
