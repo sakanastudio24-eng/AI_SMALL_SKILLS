@@ -1,0 +1,7 @@
+# One target per line.
+# You can provide hostnames, base URLs, or full endpoints.
+
+api.example.com
+https://auth.example.com
+https://gateway.example.com/internal
+https://payments.example.com/health

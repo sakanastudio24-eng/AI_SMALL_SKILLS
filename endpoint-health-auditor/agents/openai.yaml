@@ -1,0 +1,4 @@
+interface:
+  display_name: "Endpoint Health Auditor"
+  short_description: "Check endpoint health, TLS, and missing probes"
+  default_prompt: "Audit these subdomains/endpoints, report what is missing or non-responding, and provide next remediation steps."

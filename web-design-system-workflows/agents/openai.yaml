@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Design System Workflows"
+  short_description: "Create and apply web design systems for websites"
+  default_prompt: "Help me create, audit, or implement a web design system with foundations, tokens, components, documentation, and rollout guidance."

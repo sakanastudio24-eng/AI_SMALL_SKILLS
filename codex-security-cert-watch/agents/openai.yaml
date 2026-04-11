@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Security Cert Watch"
+  short_description: "Track security certs and AI security boundaries"
+  default_prompt: "Summarize current security concerns and map cybersecurity certification options with official source links."

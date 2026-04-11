@@ -1,0 +1,15 @@
+.DS_Store
+
+# Keep the small-skills repo focused.
+Price-chrome-extention/
+Mobile-Optomization-workflows/
+Price-optomization/
+
+# Nested repos and common generated artifacts.
+.git/
+**/.git/
+**/node_modules/
+**/dist/
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
