@@ -8,10 +8,10 @@ Included here:
 - `AI_SKILL_github_commits`
 - `AI_SKILL_system_design`
 - `AI_SKILL_web`
-- `codex-security-cert-watch`
-- `endpoint-health-auditor`
-- `git-safe-docs-structure`
-- `web-design-system-workflows`
+- `AI_SKILL_codex_security_cert_watch`
+- `AI_SKILL_endpoint_health_auditor`
+- `AI_SKILL_git_safe_docs_structure`
+- `AI_SKILL_web_design_system_workflows`
 
 Kept out of this repo:
 - `Price-chrome-extention` because it contains a nested repo, `node_modules`, build output, and a Python virtualenv.

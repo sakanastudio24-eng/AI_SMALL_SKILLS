@@ -122,10 +122,10 @@ Answer certification and AI security-boundary questions with source-backed, curr
 
 **Repo Source**
 
-- `codex-security-cert-watch/SKILL.md`
+- `AI_SKILL_codex_security_cert_watch/SKILL.md`
 - References:
-  - `codex-security-cert-watch/references/security-concerns.md`
-  - `codex-security-cert-watch/references/certification-catalog.md`
+  - `AI_SKILL_codex_security_cert_watch/references/security-concerns.md`
+  - `AI_SKILL_codex_security_cert_watch/references/certification-catalog.md`
 
 ---
 
@@ -161,8 +161,8 @@ Audit API and service endpoints for DNS, TLS, response health, and missing healt
 
 **Repo Source**
 
-- `endpoint-health-auditor/SKILL.md`
-- Script: `endpoint-health-auditor/scripts/check_endpoints.py`
+- `AI_SKILL_endpoint_health_auditor/SKILL.md`
+- Script: `AI_SKILL_endpoint_health_auditor/scripts/check_endpoints.py`
 
 ---
 
@@ -200,12 +200,12 @@ Plan and execute documentation and repository-structure changes with low risk, c
 
 **Repo Source**
 
-- `git-safe-docs-structure/SKILL.md`
-- Script: `git-safe-docs-structure/scripts/git_docs_preflight.sh`
+- `AI_SKILL_git_safe_docs_structure/SKILL.md`
+- Script: `AI_SKILL_git_safe_docs_structure/scripts/git_docs_preflight.sh`
 - References:
-  - `git-safe-docs-structure/references/structure-small.md`
-  - `git-safe-docs-structure/references/structure-medium.md`
-  - `git-safe-docs-structure/references/structure-complex.md`
+  - `AI_SKILL_git_safe_docs_structure/references/structure-small.md`
+  - `AI_SKILL_git_safe_docs_structure/references/structure-medium.md`
+  - `AI_SKILL_git_safe_docs_structure/references/structure-complex.md`
 
 ---
 
@@ -244,11 +244,11 @@ Create, audit, implement, document, and evolve web design systems without turnin
 
 **Repo Source**
 
-- `web-design-system-workflows/SKILL.md`
+- `AI_SKILL_web_design_system_workflows/SKILL.md`
 - References:
-  - `web-design-system-workflows/references/task-recipes.md`
-  - `web-design-system-workflows/references/output-templates.md`
-  - `web-design-system-workflows/references/minimum-viable-repo-structure.md`
+  - `AI_SKILL_web_design_system_workflows/references/task-recipes.md`
+  - `AI_SKILL_web_design_system_workflows/references/output-templates.md`
+  - `AI_SKILL_web_design_system_workflows/references/minimum-viable-repo-structure.md`
 
 ---
 
