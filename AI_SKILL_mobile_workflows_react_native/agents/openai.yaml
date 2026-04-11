@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL Mobile Workflows React Native"
+  short_description: "Plan React Native mobile screens, navigation, state, and shipping quality"
+  default_prompt: "Help me plan or review a React Native mobile workflow across screens, navigation, auth, state handling, device constraints, and shipping readiness."
