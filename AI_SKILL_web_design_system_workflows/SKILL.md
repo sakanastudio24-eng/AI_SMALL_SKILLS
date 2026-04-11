@@ -1,9 +1,9 @@
 ---
-name: web-design-system-workflows
+name: AI_SKILL_web_design_system_workflows
 description: Create, audit, document, implement, and evolve web design systems for websites and apps. Use when users ask to build a design system, turn brand rules into tokens and components, align design and code, choose a foundations architecture, or apply an existing system consistently in web design.
 ---
 
-# Web Design System Workflows
+# AI_SKILL_web_design_system_workflows
 
 Use this skill for design-system work that spans visual foundations, tokens, components, documentation, and adoption in frontend codebases.
 
