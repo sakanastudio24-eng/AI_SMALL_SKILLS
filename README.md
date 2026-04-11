@@ -7,8 +7,8 @@ Included here:
 - `endpoint-health-auditor`
 - `git-safe-docs-structure`
 - `web-design-system-workflows`
-- `Price-optomization/code-price-optimization`
 
 Kept out of this repo:
 - `Price-chrome-extention` because it contains a nested repo, `node_modules`, build output, and a Python virtualenv.
 - `Mobile-Optomization-workflows` because it is broader in scope than the rest of the small skill packs.
+- `Price-optomization` because it is already a nested git repo and should be published separately unless you want it flattened into this repo.
