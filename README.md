@@ -8,6 +8,7 @@ Included here:
 - `AI_SKILL_github_commits`
 - `AI_SKILL_system_design`
 - `AI_SKILL_web`
+- `AI_SKILL_nextjs`
 - `AI_SKILL_extension_workflows`
 - `AI_SKILL_mobile_workflows_react_native`
 - `AI_SKILL_codex_security_cert_watch`
