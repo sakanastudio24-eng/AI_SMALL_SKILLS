@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL Auth"
+  short_description: "Design and review auth and authorization flows"
+  default_prompt: "Help me design, implement, or review authentication and authorization for a web or API system with secure session handling and clear access control."
