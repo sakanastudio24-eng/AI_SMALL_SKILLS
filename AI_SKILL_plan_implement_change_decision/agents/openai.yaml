@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL Plan vs Implement"
+  short_description: "Classify whether work should be planned, built, reviewed, or revised"
+  default_prompt: "Help me decide whether this request should stay in planning, move to implementation, or be handled as a scoped change to existing work."
