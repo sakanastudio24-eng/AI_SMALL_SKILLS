@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL Expo Placeholder Integration"
+  short_description: "Plan and review temporary Expo flow integration without messy future debt"
+  default_prompt: "Help me integrate a temporary placeholder flow into an Expo app while keeping navigation, mock state, and future replacement boundaries clean."
