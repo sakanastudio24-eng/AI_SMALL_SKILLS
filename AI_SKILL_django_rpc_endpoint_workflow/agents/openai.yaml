@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL Django RPC Endpoints"
+  short_description: "Plan and review Django action endpoints, contracts, and service boundaries"
+  default_prompt: "Help me plan or review a Django RPC-style endpoint across route design, validation, auth, service boundaries, and response behavior."
