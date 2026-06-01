@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI SKILL Hosted Manual Test Sheets"
+  short_description: "Plan and review hosted manual QA sheets, cases, and release coverage"
+  default_prompt: "Help me create or review a hosted manual test sheet for a staged or production product release."
