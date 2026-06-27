@@ -22,6 +22,7 @@ Included here:
 
 Kept out of this repo:
 - `CODEOP_SECURE_FEATURE_WORKFLOW` because it is a larger standalone security workflow repo with its own git history.
+- `AI_TAMAGUI_SKILL` because it is a larger standalone framework skill repo with its own git history.
 - `Price-chrome-extention` because it contains a nested repo, `node_modules`, build output, and a Python virtualenv.
 - `Mobile-Optomization-workflows` because it is broader in scope than the rest of the small skill packs.
 - `Price-optomization` because it is already a nested git repo and should be published separately unless you want it flattened into this repo.
