@@ -19,6 +19,7 @@ Included here:
 - `AI_SKILL_endpoint_health_auditor`
 - `AI_SKILL_git_safe_docs_structure`
 - `AI_SKILL_web_design_system_workflows`
+- `system-integrity-engineering`
 
 Kept out of this repo:
 - `CODEOP_SECURE_FEATURE_WORKFLOW` because it is a larger standalone security workflow repo with its own git history.

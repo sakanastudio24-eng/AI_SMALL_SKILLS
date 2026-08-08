@@ -1,0 +1,4 @@
+interface:
+  display_name: "System Integrity Engineering"
+  short_description: "Guardrails for reliable system engineering"
+  default_prompt: "Use $system-integrity-engineering to design, implement, repair, or review this change with explicit contracts and realistic test evidence."
