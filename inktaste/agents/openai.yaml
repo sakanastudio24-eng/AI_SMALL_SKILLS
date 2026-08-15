@@ -1,0 +1,4 @@
+interface:
+  display_name: "InkTaste"
+  short_description: "InkVein structural UI/UX engineering standard"
+  default_prompt: "Use $inktaste to audit and structurally improve this InkVein screen while preserving authority and leaving final visual polish bounded."
